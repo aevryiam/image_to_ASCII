@@ -20,7 +20,7 @@ A simple Python app to convert images to ASCII art. Just select an image, and th
 1. Install dependencies.
 2. Run:
     ```bash
-    python main.py
+    python src/main.py
     ```
 3. Select an image. The ASCII art will be displayed in your terminal.
 
